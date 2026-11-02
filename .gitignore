@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.venv-packages/
+.mysql-data/
+.mysql-server.log
+.mysql-server.err
+.mysql-root-password
+__pycache__/
+*.py[cod]
+.env
+npm-debug.log*
